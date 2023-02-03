@@ -1,0 +1,101 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "实习经历",
+    "projectList": "工作经历",
+    "skillList": "个人技能",
+    "awardList": "资格证书",
+    "workList": "个人作品",
+    "aboutme": "个人评价"
+  },
+  "avatar": {
+    "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+    "hidden": true
+  },
+  "profile": {
+    "name": "李**",
+    "email": "trie***@qq.com",
+    "mobile": "158********",
+    "github": "",
+    "zhihu": "",
+    "workExpYear": "",
+    "positionTitle": ""
+  },
+  "educationList": [
+    {
+      "edu_time": ["2016年1月", "2019年1月"],
+      "school": "陕西***大学",
+      "major": "护理学专业",
+      "dataIndex": 0,
+      "academic_degree": "本科"
+    },
+    {
+      "edu_time": ["2012年9月", "2015年7月"],
+      "school": "咸阳****学院",
+      "major": "高级护理专业",
+      "academic_degree": "专科",
+      "dataIndex": 1
+    },
+    {
+      "edu_time": ["2009年9月", "2012年7月"],
+      "school": "**中学",
+      "major": "",
+      "dataIndex": 2,
+      "academic_degree": "高中"
+    }
+  ],
+  "awardList": [
+    { "award_info": "护士资格证", "award_time": "2015", "dataIndex": 0 },
+    { "award_info": "护师资格证", "award_time": "2018", "dataIndex": 1 }
+  ],
+  "workExpList": [
+    {
+      "work_time": ["2014年3月", "2015年7月"],
+      "company_name": "西安**医院",
+      "department_name": "儿科",
+      "work_desc": "轮转科室学习基础护理和专科护理，理论知识和实操",
+      "dataIndex": 0
+    }
+  ],
+  "skillList": [],
+  "projectList": [
+    {
+      "project_time": "2021年10月~2023年1月",
+      "project_name": "**卫生服务站",
+      "project_role": "计免护士",
+      "dataIndex": 0,
+      "project_content": "\n1.主要负责儿童常规疫苗(一类和二类)的接种工作\n2.负责新冠疫苗的接种工作\n3.负责门诊护理诊疗工作\n4.参与公卫科其他部门的公卫工作"
+    },
+    {
+      "project_time": "2021年4月~2021年9月",
+      "project_name": "**卫生服务站",
+      "project_role": "计免护士",
+      "dataIndex": 1,
+      "project_content": "\n1.负责门诊输液及其他诊疗工作\n2.负责儿童常规疫苗和新冠疫苗的接种工作"
+    },
+    {
+      "project_name": "西安**医院",
+      "project_role": "临床护士",
+      "project_time": "2017年3月~2018年12月",
+      "project_desc": "",
+      "project_content": "\n1.负责住院患者的出入院办理\n2.负责住院患者的治疗和护理",
+      "dataIndex": 2
+    },
+    {
+      "project_time": "2015年12月~2017年3月",
+      "project_name": "**医院",
+      "project_role": "计免护士",
+      "project_desc": "",
+      "project_content": "\n1.负责门诊患者的治疗护理工作\n2.负责住院部患者的治疗护理及出入院办理\n3.之后负责计划免疫的预防接种工作",
+      "dataIndex": 3
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "1.\t在校担任学生会干部期间，表现出较强的组织能力和人际交往沟通能力； \n2.\t实习期间，对待患者及需要照顾的老人小孩有足够的耐心和很强的责任心； \n3.\t工作期间，能与同事和睦相处，待人友善，态度谦和，有集体意识。 \n4.\t在以后的工作中，细心，耐心，认真做好每一份工作，认真对待每一位患者，愿意用自己所学的专业知识，继续造福医疗卫生行业。 "
+  },
+  "theme": {
+    "color": "#1890ff",
+    "tagColor": "#1890ff"
+  }
+}
